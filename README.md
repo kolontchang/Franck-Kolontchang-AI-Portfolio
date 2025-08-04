@@ -5,11 +5,11 @@ This presentation is a professional recap of all the work completed throughout o
 ├── Natural Language Processing-ITAI2373/      
 │   ├── Project1/ Discussion:Brainstorm on two AI applications
 │   │   ├── README.md     Rosie and Siri. They showcase AI's potential in daily life—Rosie as a witty household robot, and Siri as a voice-based assistant that interprets and responds to user commands intelligently.
-│   │   ├── model.py            # Actual code files (not just PDFs)
-│   │   ├── dataset/            # Data or instructions to access data
-│   │   └── results/            
-│   └── Project2/
-│       └── [project files with code]
+│   │   ├── model.py            
+│   │   ├── dataset/NLP in Action: From Pop Culture to Processes # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/a32d65de66ee9701a3f42688c821e3eefd60ac23/Brainstorm%20two%20AI%20applications.docx
+│   │   └── results/           
+│   └── Project2/  NLP Processing Techniques
+│       └── [ ]
 ├── NLP-ITAI2373/
 │   ├── Project1/
 │   │   └── [project files with code]
