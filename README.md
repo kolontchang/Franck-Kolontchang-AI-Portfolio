@@ -30,11 +30,11 @@ This presentation is a professional recap of all the work completed throughout o
 
 ├── Project6/ Part-of-Speech Tagging in the Real World
 │   │   ├── README.md           # This lab enhanced my understanding of NLP text representations, from basic models like BOW and TF-IDF to advanced word embeddings, revealing both their semantic power and ethical concerns about bias and fairness.
-│   │   ├── model.py            # 
+│   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/623ff8ebbe3e3c62c968be4d9c63541319b8cb0c/L05_Kolontchang_Franck_ITAI2373_(1)%20(1).ipynb
 │   │   ├── dataset/            ...
-│   │   └── results/            # Visualizations, metrics
-├── Project1/
-│   │   ├── README.md           # Project documentation
+│   │   └── results/            # We have successfully explored the fascinating world of POS tagging! We now understand how computers parse human language and can apply these techniques to solve real-world problems. we can Handle syntactically ambiguous or recursive sentences, use transformer-based models like BERT for more accurate tagging in complex cases ]
+├── Project7/ L07 Sentiment and Emotion Analysis in the Real World
+│   │   ├── README.md           # This lab focused on Named Entity Recognition (NER), teaching me how NLP models identify entities like names, places, and dates. I practiced extracting structured information from unstructured text using spaCy tools.
 │   │   ├── model.py            # Actual code files (not just PDFs)
 │   │   ├── dataset/            # Data or instructions to access data
 │   │   └── results/            # Visualizations, metrics
