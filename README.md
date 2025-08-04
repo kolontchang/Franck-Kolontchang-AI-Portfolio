@@ -8,10 +8,12 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   ├── model.py            
 │   │   ├── dataset/NLP in Action: From Pop Culture to Processes # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/a32d65de66ee9701a3f42688c821e3eefd60ac23/Brainstorm%20two%20AI%20applications.docx
 │   │   └── results/           
-│   └── Project2/  NLP Processing Techniques
-│       └── [ ]
+│   └── Project/  Lab 02 NLP Processing Techniques
+│       └── Text Preprocessing[ https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/34b2416cb18a9ec51f04d544b5449610835bcbec/A03_Jai'Anni_White_ITAI_2373.docx]
+│   │   └── results/  Lab 02 showed me how crucial text preprocessing is in NLP. Using NLTK and SpaCy, I learned that clean, well-prepared text directly impacts model performance and real-world AI applications.
+                 
 ├── NLP-ITAI2373/
-│   ├── Project1/
+│   ├── Project03/
 │   │   └── [project files with code]
 │   └── Project2/
 │       └── [project files with code]
