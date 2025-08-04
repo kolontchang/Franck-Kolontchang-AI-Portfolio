@@ -16,10 +16,12 @@ This presentation is a professional recap of all the work completed throughout o
                  
 ├── NLP-ITAI2373/
 │   ├── Project03/ Lab Reflection Journal – GitHub & Jupyter Notebook
-│   │   └── [project files with code]
-│   └── Project2/
+│   │   └── [[project files with code](https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/42df5133677352fa3eae506fab4b14f04cb42b2a/L03a_Franck_Kolontchang_ITAI1378%20(1).docx)]
+│   │   └── results/ we created a GitHub account, explored version control, and practiced using Jupyter Notebook for interactive coding, combining code with markdown. We learned how to save, document, and upload projects efficiently.
+     
+│   └── Project4/  Voice Tech in the Multiverse Creative Challenge
 │       └── [project files with code]
-├── AI at the Edge  IoT-ITAI3377/
+│   │   └── results/ "World Domination" uses voice commands in a VR war game. The Omni-Vox system filters real-world noise, enemy jamming, and enhances speech to enable strategic control via immersive audio.
 │   └── [project directories with code]
 └── Presentation/
     └── Pf_YourName_ITAI2376.pdf  # Your presentation
