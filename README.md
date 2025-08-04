@@ -19,8 +19,7 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   └── [[project files with code](https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/42df5133677352fa3eae506fab4b14f04cb42b2a/L03a_Franck_Kolontchang_ITAI1378%20(1).docx)]
 │   │   └── results/ we created a GitHub account, explored version control, and practiced using Jupyter Notebook for interactive coding, combining code with markdown. We learned how to save, document, and upload projects efficiently.
      
-│   └── Project4/  Voice Tech in the Multiverse Creative Challenge
-│       └── [project files with code]
+│   └── Project4/Voice Tech in the Multiverse Creative Challenge/https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/df27c3a5080b11e0e0197c308ac13e58c70ed72c/A03_Group5_ImanHaamid_ITAI_2373%20(2).pdf)
 │   │   └── results/ "World Domination" uses voice commands in a VR war game. The Omni-Vox system filters real-world noise, enemy jamming, and enhances speech to enable strategic control via immersive audio.
 │   └── [project directories with code]
 └── Presentation/
