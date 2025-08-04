@@ -35,11 +35,11 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   └── results/            # We have successfully explored the fascinating world of POS tagging! We now understand how computers parse human language and can apply these techniques to solve real-world problems. we can Handle syntactically ambiguous or recursive sentences, use transformer-based models like BERT for more accurate tagging in complex cases ]
 ├── Project7/ L07 Sentiment and Emotion Analysis in the Real World
 │   │   ├── README.md           # This lab focused on Named Entity Recognition (NER), teaching me how NLP models identify entities like names, places, and dates. I practiced extracting structured information from unstructured text using spaCy tools.
-│   │   ├── model.py            # Actual code files (not just PDFs)
-│   │   ├── dataset/            # Data or instructions to access data
-│   │   └── results/            # Visualizations, metrics
-├── Project1/
-│   │   ├── README.md           # Project documentation
+│   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/e66129a118e4098d19cb59b14d8447c2fed273de/L07_Kolontchang_Franck_ITAI2373%20(1).ipynb
+│   │   ├── dataset/            # ...
+│   │   └── results/            # we have hands-on experience with multiple approaches to understand emotions in text and speech. These skills will be valuable as we continue exploring advanced NLP techniques.
+├── Project8/ Mid-Term Group Project: NewsBot Intelligence System
+│   │   ├── README.md           # Our team built the NewsBot Intelligence System, an NLP pipeline that classifies news articles and analyzes sentiment across five categories. We used tools like SpaCy and TF-IDF, overcame data and performance challenges, and gained real-world experience in coding, collaboration, visualization, and model integration for AI applications.
 │   │   ├── model.py            # Actual code files (not just PDFs)
 │   │   ├── dataset/            # Data or instructions to access data
 │   │   └── results/            # Visualizations, metrics
