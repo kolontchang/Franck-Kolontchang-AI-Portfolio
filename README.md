@@ -24,13 +24,14 @@ This presentation is a professional recap of all the work completed throughout o
 
 ├── Project5/ Lab 04: Text Representation
 │   │   ├── README.md           This lab deepened my understanding of text representation in NLP, from Bag of Words to word embeddings, highlighting their power, limitations, and ethical concerns related to bias and contextual understanding.
-│   │   ├── model.py            # Actual code files (not just PDFs)
-│   │   ├── dataset/            # Data or instructions to access data
-│   │   └── results/            # Visualizations, metrics
-├── Project1/
-│   │   ├── README.md           # Project documentation
-│   │   ├── model.py            # Actual code files (not just PDFs)
-│   │   ├── dataset/            # Data or instructions to access data
+│   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/4aa05399481cd958837db01e0f68a5d0848c59f4/L04_Franck_Kolontchang_ITAI_2373%20(1)%20(2).ipynb      
+│   │   ├── dataset/            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/4aa05399481cd958837db01e0f68a5d0848c59f4/L04_Journal_Franck_Kolontchang_ITAI_2373.docx
+│   │   └── results/            #✅ Using professional libraries (scikit-learn, gensim) , Building and evaluating machine learning models, Comparing different approaches systematically, Visualizing and interpreting results.
+
+├── Project6/ Part-of-Speech Tagging in the Real World
+│   │   ├── README.md           # This lab enhanced my understanding of NLP text representations, from basic models like BOW and TF-IDF to advanced word embeddings, revealing both their semantic power and ethical concerns about bias and fairness.
+│   │   ├── model.py            # 
+│   │   ├── dataset/            ...
 │   │   └── results/            # Visualizations, metrics
 ├── Project1/
 │   │   ├── README.md           # Project documentation
