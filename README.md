@@ -20,7 +20,30 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   └── results/ we created a GitHub account, explored version control, and practiced using Jupyter Notebook for interactive coding, combining code with markdown. We learned how to save, document, and upload projects efficiently.
      
 │   └── Project4/Voice Tech in the Multiverse Creative Challenge/https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/df27c3a5080b11e0e0197c308ac13e58c70ed72c/A03_Group5_ImanHaamid_ITAI_2373%20(2).pdf)
-│   │   └── results/ "World Domination" uses voice commands in a VR war game. The Omni-Vox system filters real-world noise, enemy jamming, and enhances speech to enable strategic control via immersive audio.
+│   │   ├── README.md  "World Domination" uses voice commands in a VR war game. The Omni-Vox system filters real-world noise, enemy jamming, and enhances speech to enable strategic control via immersive audio.
+
+├── Project5/ Lab 04: Text Representation
+│   │   ├── README.md           This lab deepened my understanding of text representation in NLP, from Bag of Words to word embeddings, highlighting their power, limitations, and ethical concerns related to bias and contextual understanding.
+│   │   ├── model.py            # Actual code files (not just PDFs)
+│   │   ├── dataset/            # Data or instructions to access data
+│   │   └── results/            # Visualizations, metrics
+├── Project1/
+│   │   ├── README.md           # Project documentation
+│   │   ├── model.py            # Actual code files (not just PDFs)
+│   │   ├── dataset/            # Data or instructions to access data
+│   │   └── results/            # Visualizations, metrics
+├── Project1/
+│   │   ├── README.md           # Project documentation
+│   │   ├── model.py            # Actual code files (not just PDFs)
+│   │   ├── dataset/            # Data or instructions to access data
+│   │   └── results/            # Visualizations, metrics
+├── Project1/
+│   │   ├── README.md           # Project documentation
+│   │   ├── model.py            # Actual code files (not just PDFs)
+│   │   ├── dataset/            # Data or instructions to access data
+│   │   └── results/            # Visualizations, metrics
+
+
 │   └── [project directories with code]
 └── Presentation/
     └── Pf_YourName_ITAI2376.pdf  # Your presentation
