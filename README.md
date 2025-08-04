@@ -38,13 +38,14 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/e66129a118e4098d19cb59b14d8447c2fed273de/L07_Kolontchang_Franck_ITAI2373%20(1).ipynb
 │   │   ├── dataset/            # ...
 │   │   └── results/            # we have hands-on experience with multiple approaches to understand emotions in text and speech. These skills will be valuable as we continue exploring advanced NLP techniques.
+
 ├── Project8/ Mid-Term Group Project: NewsBot Intelligence System
 │   │   ├── README.md           # Our team built the NewsBot Intelligence System, an NLP pipeline that classifies news articles and analyzes sentiment across five categories. We used tools like SpaCy and TF-IDF, overcame data and performance challenges, and gained real-world experience in coding, collaboration, visualization, and model integration for AI applications.
-│   │   ├── model.py            # Actual code files (not just PDFs)
-│   │   ├── dataset/            # Data or instructions to access data
-│   │   └── results/            # Visualizations, metrics
+│   │   ├── model.py            # https://github.com/imid12/miniature-eureka-Group5/tree/main/ITAI2373-NewsBot-Midterm )
+│   │   ├── dataset/            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/f376ce81d409ff757e36aa20a4b76b748c62ad95/NewsBot_Reflection_%5BGroup%205%5D.pdf 
+│   │   └── results/            # The result of the NewsBot Intelligence System project is a functional NLP pipeline capable of classifying news articles, analyzing sentiment, and extracting key linguistic features. It combines tools like SpaCy, TF-IDF, and visualization techniques to support real-world applications in media and content analysis.
 
 
 │   └── [project directories with code]
 └── Presentation/
-    └── Pf_YourName_ITAI2376.pdf  # Your presentation
+    └── Pf_YourName_ITAI2373.pdf  # Your presentation
