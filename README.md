@@ -47,5 +47,5 @@ This presentation is a professional recap of all the work completed throughout o
 
 
 │   └── [project directories with code]
-└── Presentation/..
-    └── Pf_YourName_ITAI2373.pdf  # Your presentation
+└── Presentation/ ...
+    └── Pf_Kolontchang Toheu Franck_ITAI2373.pdf  # Your presentation
