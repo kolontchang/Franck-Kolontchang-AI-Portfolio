@@ -33,6 +33,7 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/623ff8ebbe3e3c62c968be4d9c63541319b8cb0c/L05_Kolontchang_Franck_ITAI2373_(1)%20(1).ipynb
 │   │   ├── dataset/            ...
 │   │   └── results/            # We have successfully explored the fascinating world of POS tagging! We now understand how computers parse human language and can apply these techniques to solve real-world problems. we can Handle syntactically ambiguous or recursive sentences, use transformer-based models like BERT for more accurate tagging in complex cases ]
+
 ├── Project7/ L07 Sentiment and Emotion Analysis in the Real World
 │   │   ├── README.md           # This lab focused on Named Entity Recognition (NER), teaching me how NLP models identify entities like names, places, and dates. I practiced extracting structured information from unstructured text using spaCy tools.
 │   │   ├── model.py            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/e66129a118e4098d19cb59b14d8447c2fed273de/L07_Kolontchang_Franck_ITAI2373%20(1).ipynb
@@ -43,6 +44,7 @@ This presentation is a professional recap of all the work completed throughout o
 │   │   ├── README.md           # Our team built the NewsBot Intelligence System, an NLP pipeline that classifies news articles and analyzes sentiment across five categories. We used tools like SpaCy and TF-IDF, overcame data and performance challenges, and gained real-world experience in coding, collaboration, visualization, and model integration for AI applications.
 │   │   ├── model.py            # https://github.com/imid12/miniature-eureka-Group5/tree/main/ITAI2373-NewsBot-Midterm )
 │   │   ├── dataset/            # https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/f376ce81d409ff757e36aa20a4b76b748c62ad95/NewsBot_Reflection_%5BGroup%205%5D.pdf 
+report https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/c3396ce0ee70be9fb92d52f6e0c6227f4d1d9ace/New%20report%20FIK.docx
 │   │   └── results/            # The result of the NewsBot Intelligence System project is a functional NLP pipeline capable of classifying news articles, analyzing sentiment, and extracting key linguistic features. It combines tools like SpaCy, TF-IDF, and visualization techniques to support real-world applications in media and content analysis.
 
 
