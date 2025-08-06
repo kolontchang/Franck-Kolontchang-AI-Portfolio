@@ -47,5 +47,5 @@ This presentation is a professional recap of all the work completed throughout o
 
 
 │   └── [project directories with code]
-└── Presentation/ ...
-    └── Pf_Kolontchang Toheu Franck_ITAI2373.pdf  # Your presentation
+└── Presentation/
+    └── Pf_Kolontchang Toheu Franck_ITAI2373.pdf  # link https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/01c4a6fade46020014ce582e0ca4dedafe1ec2ff/Presentation%20.pptx
