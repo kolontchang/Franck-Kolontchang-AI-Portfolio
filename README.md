@@ -48,6 +48,8 @@ report https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/c3396
 │   │   └── results/            # The result of the NewsBot Intelligence System project is a functional NLP pipeline capable of classifying news articles, analyzing sentiment, and extracting key linguistic features. It combines tools like SpaCy, TF-IDF, and visualization techniques to support real-world applications in media and content analysis.
 
 
-│   └── [project directories with code]
+│   └── [project directories with code] https://github.com/imid12/miniature-eureka-Group5/tree/main/ITAI2373-NewsBot_2.0-Final 
+<img width="1550" height="81" alt="image" src="https://github.com/user-attachments/assets/50627925-627b-4b29-8fde-b40f93c058af" />
+
 └── Presentation/
     └── Pf_Kolontchang Toheu Franck_ITAI2373.pdf  # link https://github.com/kolontchang/Franck-Kolontchang-AI-Portfolio/blob/01c4a6fade46020014ce582e0ca4dedafe1ec2ff/Presentation%20.pptx
